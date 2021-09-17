@@ -1,0 +1,14 @@
+{
+  "name": "apple-replica-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-sass":"sass --watch ./public/stylesheets/scss/main.scss ./public/stylesheets/css/main.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
