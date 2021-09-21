@@ -1,6 +1,5 @@
 body {
   background-color: black;
-  color: white;
   font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
@@ -146,7 +145,7 @@ ul {
 .com-siz-style:hover {
   color: black;
   background: white;
-  transition-duration: 1s;
+  transition-duration: 0.5s;
 }
 
 .container-3-sty {
